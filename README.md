@@ -1,4 +1,8 @@
 # hello-world
-from tutorial :D
+from the tutorial :P
 
-Hi kiddos I changed this file how bout dat?
+hi ppl i changed dis file how 'bout dat?
+```diff
++ this will be highlighted in green
+- this will be highlighted in red
+```
